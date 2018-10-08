@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F4D3D2C0-6EEE-4563-A16E-5A1C75D2B4C4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Fox_green_Nuwe</RootNamespace>
+    <AssemblyName>Fox_green_Nuwe</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FoxgreenDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FoxgreenDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdmin.Designer.cs">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdmin_NUwe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin_NUwe.Designer.cs">
+      <DependentUpon>FrmAdmin_NUwe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKliente.Designer.cs">
+      <DependentUpon>frmKliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKliente_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKliente_Edit.Designer.cs">
+      <DependentUpon>frmKliente_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKliente_nuwe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKliente_nuwe.Designer.cs">
+      <DependentUpon>frmKliente_nuwe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKliente_soek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKliente_soek.Designer.cs">
+      <DependentUpon>frmKliente_soek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions.Designer.cs">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions_edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions_edit.Designer.cs">
+      <DependentUpon>frmOptions_edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOptions_Passchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOptions_Passchange.Designer.cs">
+      <DependentUpon>frmOptions_Passchange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerhuur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerhuur.Designer.cs">
+      <DependentUpon>frmVerhuur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerhuur_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerhuur_Edit.Designer.cs">
+      <DependentUpon>frmVerhuur_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerhuur_Nuwe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerhuur_Nuwe.Designer.cs">
+      <DependentUpon>frmVerhuur_Nuwe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerhuur_Soek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerhuur_Soek.Designer.cs">
+      <DependentUpon>frmVerhuur_Soek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerhuur_soek2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerhuur_soek2.Designer.cs">
+      <DependentUpon>frmVerhuur_soek2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerkope.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerkope.Designer.cs">
+      <DependentUpon>frmVerkope.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerkope_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerkope_Edit.Designer.cs">
+      <DependentUpon>frmVerkope_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerkope_nuwe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerkope_nuwe.Designer.cs">
+      <DependentUpon>frmVerkope_nuwe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerkope_Soek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerkope_Soek.Designer.cs">
+      <DependentUpon>frmVerkope_Soek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerkope_Soek2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerkope_Soek2.Designer.cs">
+      <DependentUpon>frmVerkope_Soek2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAdmin.resx">
+      <DependentUpon>frmAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdmin_NUwe.resx">
+      <DependentUpon>FrmAdmin_NUwe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKliente.resx">
+      <DependentUpon>frmKliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKliente_Edit.resx">
+      <DependentUpon>frmKliente_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKliente_nuwe.resx">
+      <DependentUpon>frmKliente_nuwe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKliente_soek.resx">
+      <DependentUpon>frmKliente_soek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions.resx">
+      <DependentUpon>frmOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions_edit.resx">
+      <DependentUpon>frmOptions_edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOptions_Passchange.resx">
+      <DependentUpon>frmOptions_Passchange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerhuur.resx">
+      <DependentUpon>frmVerhuur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerhuur_Edit.resx">
+      <DependentUpon>frmVerhuur_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerhuur_Nuwe.resx">
+      <DependentUpon>frmVerhuur_Nuwe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerhuur_Soek.resx">
+      <DependentUpon>frmVerhuur_Soek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerhuur_soek2.resx">
+      <DependentUpon>frmVerhuur_soek2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerkope.resx">
+      <DependentUpon>frmVerkope.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerkope_Edit.resx">
+      <DependentUpon>frmVerkope_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerkope_nuwe.resx">
+      <DependentUpon>frmVerkope_nuwe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerkope_Soek.resx">
+      <DependentUpon>frmVerkope_Soek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerkope_Soek2.resx">
+      <DependentUpon>frmVerkope_Soek2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="FoxgreenDatabaseDataSet.xsc">
+      <DependentUpon>FoxgreenDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FoxgreenDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FoxgreenDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FoxgreenDatabaseDataSet.xss">
+      <DependentUpon>FoxgreenDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FoxgreenDatabase.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

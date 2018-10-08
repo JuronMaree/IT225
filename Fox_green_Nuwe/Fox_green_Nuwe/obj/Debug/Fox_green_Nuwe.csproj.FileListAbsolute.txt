@@ -1,0 +1,93 @@
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.exe.config
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.exe
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.pdb
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csprojAssemblyReference.cache
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmLogin.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.Properties.Resources.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.GenerateResource.cache
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.CoreCompileInputs.cache
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.exe
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.pdb
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmMenu.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\FoxgreenDatabase.accdb
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmAdmin.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.FrmAdmin_NUwe.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_nuwe.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Edit.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_edit.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_Passchange.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Soek.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Soek2.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_Edit.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_nuwe.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_soek.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Edit.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Nuwe.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Soek.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_soek2.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\FoxgreenDatabase.accdb
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.exe.config
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.exe
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.pdb
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csprojAssemblyReference.cache
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmAdmin.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.FrmAdmin_NUwe.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_Edit.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_nuwe.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_soek.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmLogin.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmMenu.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_edit.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_Passchange.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Edit.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Nuwe.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Soek.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_soek2.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Edit.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_nuwe.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Soek.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Soek2.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.Properties.Resources.resources
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.GenerateResource.cache
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.CoreCompileInputs.cache
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.exe
+C:\Users\Gerrit\Downloads\Projek v12.2 Juron Maree\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.pdb
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\FoxgreenDatabase.accdb
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.exe.config
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.exe
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.pdb
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csprojAssemblyReference.cache
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmAdmin.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.FrmAdmin_NUwe.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_Edit.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_nuwe.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_soek.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmLogin.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmMenu.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_edit.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_Passchange.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Edit.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Nuwe.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Soek.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_soek2.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Edit.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_nuwe.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Soek.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Soek2.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.Properties.Resources.resources
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.GenerateResource.cache
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.CoreCompileInputs.cache
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.exe
+F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.pdb
