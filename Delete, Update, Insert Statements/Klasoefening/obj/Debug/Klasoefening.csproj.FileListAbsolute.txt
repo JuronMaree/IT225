@@ -1,0 +1,26 @@
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\bin\Debug\Klasoefening.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\obj\Debug\Klasoefening.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\obj\Debug\Klasoefening.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\obj\Debug\Klasoefening.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\obj\Debug\Klasoefening.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\bin\Debug\DVD.accdb
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\bin\Debug\Klasoefening.exe
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\bin\Debug\Klasoefening.pdb
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\obj\Debug\Klasoefening.exe
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\obj\Debug\Klasoefening.pdb
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\obj\Debug\Klasoefening.DeleteForm.resources
+c:\users\student\documents\visual studio 2015\Projects\Klasoefening\Klasoefening\obj\Debug\Klasoefening.InsertForm.resources
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\bin\Debug\DVD.accdb
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\bin\Debug\Klasoefening.exe.config
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\bin\Debug\Klasoefening.exe
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\bin\Debug\Klasoefening.pdb
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.csprojResolveAssemblyReference.cache
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.DeleteForm.resources
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.Form1.resources
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.FormUpdate.resources
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.InsertForm.resources
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.Properties.Resources.resources
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.csproj.GenerateResource.Cache
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.exe
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.pdb
+C:\Users\Dirk\Documents\Universiteit Klasse\Tweedejaar\C#\Klasoefening del,ins\Klasoefening del,ins\Klasoefening\obj\Debug\Klasoefening.FormSearch.resources
