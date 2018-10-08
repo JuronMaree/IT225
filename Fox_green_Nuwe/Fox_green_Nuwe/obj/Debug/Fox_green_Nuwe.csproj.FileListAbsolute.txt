@@ -91,3 +91,34 @@ F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 
 F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.CoreCompileInputs.cache
 F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.exe
 F:\Onedrive\Efundi\2018 Semester 2\ITRW 225 Stelsels\Projek  almal\Projek v12.3 Gerrit Smit\Projek v12.3 Gerrit Smit\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.pdb
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\FoxgreenDatabase.accdb
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.exe.config
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.exe
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\bin\Debug\Fox_green_Nuwe.pdb
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csprojAssemblyReference.cache
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmAdmin.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.FrmAdmin_NUwe.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_Edit.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_nuwe.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmKliente_soek.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmLogin.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmMenu.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_edit.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_Passchange.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Edit.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Nuwe.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Soek.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_soek2.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Edit.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_nuwe.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Soek.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Soek2.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.Properties.Resources.resources
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.GenerateResource.cache
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.csproj.CoreCompileInputs.cache
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.exe
+C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.pdb

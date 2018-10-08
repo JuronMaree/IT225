@@ -49,18 +49,23 @@ namespace Fox_green_Nuwe
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.edtPrys = new System.Windows.Forms.TextBox();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.edtAdressID = new System.Windows.Forms.TextBox();
+            this.cxbSwembad = new System.Windows.Forms.CheckBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.cbArea = new System.Windows.Forms.ComboBox();
+            this.cbAgent = new System.Windows.Forms.ComboBox();
+            this.cbKleint = new System.Windows.Forms.ComboBox();
+            this.edtAddInligting = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.lblAdressNaam = new System.Windows.Forms.Label();
+            this.edtStraatNaam = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.numStraat = new System.Windows.Forms.NumericUpDown();
+            this.cbType = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.numGerages)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numVloere)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numSlaapkamers)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numBadkamers)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numStraat)).BeginInit();
             this.SuspendLayout();
             // 
             // numGerages
@@ -127,21 +132,21 @@ namespace Fox_green_Nuwe
             // 
             // numVloere
             // 
-            this.numVloere.Location = new System.Drawing.Point(263, 322);
+            this.numVloere.Location = new System.Drawing.Point(263, 352);
             this.numVloere.Name = "numVloere";
             this.numVloere.Size = new System.Drawing.Size(120, 20);
             this.numVloere.TabIndex = 78;
             // 
             // numSlaapkamers
             // 
-            this.numSlaapkamers.Location = new System.Drawing.Point(263, 252);
+            this.numSlaapkamers.Location = new System.Drawing.Point(263, 282);
             this.numSlaapkamers.Name = "numSlaapkamers";
             this.numSlaapkamers.Size = new System.Drawing.Size(120, 20);
             this.numSlaapkamers.TabIndex = 77;
             // 
             // numBadkamers
             // 
-            this.numBadkamers.Location = new System.Drawing.Point(263, 210);
+            this.numBadkamers.Location = new System.Drawing.Point(263, 240);
             this.numBadkamers.Name = "numBadkamers";
             this.numBadkamers.Size = new System.Drawing.Size(120, 20);
             this.numBadkamers.TabIndex = 76;
@@ -149,7 +154,7 @@ namespace Fox_green_Nuwe
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(144, 324);
+            this.label9.Location = new System.Drawing.Point(144, 354);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(70, 13);
             this.label9.TabIndex = 75;
@@ -158,7 +163,7 @@ namespace Fox_green_Nuwe
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(144, 290);
+            this.label8.Location = new System.Drawing.Point(144, 320);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(54, 13);
             this.label8.TabIndex = 74;
@@ -196,14 +201,14 @@ namespace Fox_green_Nuwe
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(144, 171);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(62, 13);
+            this.label4.Size = new System.Drawing.Size(49, 13);
             this.label4.TabIndex = 70;
-            this.label4.Text = "Adress nom";
+            this.label4.Text = "Straat Nr";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(144, 212);
+            this.label3.Location = new System.Drawing.Point(144, 242);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(93, 13);
             this.label3.TabIndex = 69;
@@ -212,7 +217,7 @@ namespace Fox_green_Nuwe
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(144, 254);
+            this.label2.Location = new System.Drawing.Point(144, 284);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(101, 13);
             this.label2.TabIndex = 68;
@@ -225,22 +230,15 @@ namespace Fox_green_Nuwe
             this.edtPrys.Size = new System.Drawing.Size(120, 20);
             this.edtPrys.TabIndex = 67;
             // 
-            // checkBox1
+            // cxbSwembad
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(263, 289);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(37, 17);
-            this.checkBox1.TabIndex = 66;
-            this.checkBox1.Text = "Ja";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
-            // edtAdressID
-            // 
-            this.edtAdressID.Location = new System.Drawing.Point(263, 168);
-            this.edtAdressID.Name = "edtAdressID";
-            this.edtAdressID.Size = new System.Drawing.Size(120, 20);
-            this.edtAdressID.TabIndex = 63;
+            this.cxbSwembad.AutoSize = true;
+            this.cxbSwembad.Location = new System.Drawing.Point(263, 319);
+            this.cxbSwembad.Name = "cxbSwembad";
+            this.cxbSwembad.Size = new System.Drawing.Size(37, 17);
+            this.cxbSwembad.TabIndex = 66;
+            this.cxbSwembad.Text = "Ja";
+            this.cxbSwembad.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
@@ -252,46 +250,89 @@ namespace Fox_green_Nuwe
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
-            // comboBox1
+            // cbArea
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(262, 54);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 87;
+            this.cbArea.FormattingEnabled = true;
+            this.cbArea.Location = new System.Drawing.Point(262, 54);
+            this.cbArea.Name = "cbArea";
+            this.cbArea.Size = new System.Drawing.Size(121, 21);
+            this.cbArea.TabIndex = 87;
             // 
-            // comboBox2
+            // cbAgent
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(262, 91);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(121, 21);
-            this.comboBox2.TabIndex = 88;
+            this.cbAgent.FormattingEnabled = true;
+            this.cbAgent.Location = new System.Drawing.Point(262, 91);
+            this.cbAgent.Name = "cbAgent";
+            this.cbAgent.Size = new System.Drawing.Size(121, 21);
+            this.cbAgent.TabIndex = 88;
             // 
-            // comboBox3
+            // cbKleint
             // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(263, 124);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(121, 21);
-            this.comboBox3.TabIndex = 89;
+            this.cbKleint.FormattingEnabled = true;
+            this.cbKleint.Location = new System.Drawing.Point(263, 124);
+            this.cbKleint.Name = "cbKleint";
+            this.cbKleint.Size = new System.Drawing.Size(121, 21);
+            this.cbKleint.TabIndex = 89;
             // 
-            // textBox1
+            // edtAddInligting
             // 
-            this.textBox1.Location = new System.Drawing.Point(536, 239);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(183, 76);
-            this.textBox1.TabIndex = 90;
+            this.edtAddInligting.Location = new System.Drawing.Point(435, 256);
+            this.edtAddInligting.Multiline = true;
+            this.edtAddInligting.Name = "edtAddInligting";
+            this.edtAddInligting.Size = new System.Drawing.Size(183, 76);
+            this.edtAddInligting.TabIndex = 90;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(432, 217);
+            this.label1.Location = new System.Drawing.Point(432, 240);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(100, 13);
             this.label1.TabIndex = 91;
             this.label1.Text = "Addisionele Inligting";
+            // 
+            // lblAdressNaam
+            // 
+            this.lblAdressNaam.AutoSize = true;
+            this.lblAdressNaam.Location = new System.Drawing.Point(145, 207);
+            this.lblAdressNaam.Name = "lblAdressNaam";
+            this.lblAdressNaam.Size = new System.Drawing.Size(66, 13);
+            this.lblAdressNaam.TabIndex = 93;
+            this.lblAdressNaam.Text = "Straat Naam";
+            // 
+            // edtStraatNaam
+            // 
+            this.edtStraatNaam.Location = new System.Drawing.Point(264, 204);
+            this.edtStraatNaam.Name = "edtStraatNaam";
+            this.edtStraatNaam.Size = new System.Drawing.Size(120, 20);
+            this.edtStraatNaam.TabIndex = 92;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(432, 207);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(89, 13);
+            this.label10.TabIndex = 94;
+            this.label10.Text = "Verkoop/Verhuur";
+            // 
+            // numStraat
+            // 
+            this.numStraat.Location = new System.Drawing.Point(264, 164);
+            this.numStraat.Name = "numStraat";
+            this.numStraat.Size = new System.Drawing.Size(119, 20);
+            this.numStraat.TabIndex = 96;
+            // 
+            // cbType
+            // 
+            this.cbType.FormattingEnabled = true;
+            this.cbType.Items.AddRange(new object[] {
+            "Verhuur",
+            "Verkoop"});
+            this.cbType.Location = new System.Drawing.Point(535, 199);
+            this.cbType.Name = "cbType";
+            this.cbType.Size = new System.Drawing.Size(121, 21);
+            this.cbType.TabIndex = 97;
             // 
             // frmVerkope_nuwe
             // 
@@ -299,11 +340,16 @@ namespace Fox_green_Nuwe
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Turquoise;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.cbType);
+            this.Controls.Add(this.numStraat);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.lblAdressNaam);
+            this.Controls.Add(this.edtStraatNaam);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.comboBox3);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.edtAddInligting);
+            this.Controls.Add(this.cbKleint);
+            this.Controls.Add(this.cbAgent);
+            this.Controls.Add(this.cbArea);
             this.Controls.Add(this.numGerages);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label13);
@@ -323,8 +369,7 @@ namespace Fox_green_Nuwe
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.edtPrys);
-            this.Controls.Add(this.checkBox1);
-            this.Controls.Add(this.edtAdressID);
+            this.Controls.Add(this.cxbSwembad);
             this.Controls.Add(this.button1);
             this.Name = "frmVerkope_nuwe";
             this.Text = "frmVerkope_nuwe";
@@ -333,6 +378,7 @@ namespace Fox_green_Nuwe
             ((System.ComponentModel.ISupportInitialize)(this.numVloere)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numSlaapkamers)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numBadkamers)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numStraat)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -358,15 +404,19 @@ namespace Fox_green_Nuwe
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox edtPrys;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.TextBox edtAdressID;
+        private System.Windows.Forms.CheckBox cxbSwembad;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.ComboBox cbArea;
+        private System.Windows.Forms.ComboBox cbAgent;
+        private System.Windows.Forms.ComboBox cbKleint;
+        private System.Windows.Forms.TextBox edtAddInligting;
         private System.Windows.Forms.Label label1;
         private EventHandler button1_Click;
         private EventHandler comboBox2_SelectedIndexChanged;
+        private System.Windows.Forms.Label lblAdressNaam;
+        private System.Windows.Forms.TextBox edtStraatNaam;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.NumericUpDown numStraat;
+        private System.Windows.Forms.ComboBox cbType;
     }
 }
