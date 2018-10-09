@@ -107,11 +107,6 @@ C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_gree
 C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions.resources
 C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_edit.resources
 C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmOptions_Passchange.resources
-C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur.resources
-C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Edit.resources
-C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Nuwe.resources
-C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_Soek.resources
-C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerhuur_soek2.resources
 C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope.resources
 C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_Edit.resources
 C:\Users\dovuu\Documents\Universiteit Klasse\Derdejaar\225\Projek\IT225\Fox_green_Nuwe\Fox_green_Nuwe\obj\Debug\Fox_green_Nuwe.frmVerkope_nuwe.resources

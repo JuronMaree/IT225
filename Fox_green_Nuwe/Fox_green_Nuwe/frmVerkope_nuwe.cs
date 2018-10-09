@@ -109,21 +109,18 @@ namespace Fox_green_Nuwe
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            AddToDatabase(cbArea.SelectedIndex, cbAgent.SelectedIndex, cbKleint.SelectedIndex, Convert.ToInt32(numStraat.Value), Convert.ToInt32(numStraat.Value), Convert.ToInt32(numStraat.Value)
-                , Convert.ToInt32(numStraat.Value), Convert.ToInt32(numStraat.Value), edtStraatNaam.Text, edtPlan.Text, cbType.SelectedValue.ToString(), edtAddInligting.Text, cxbSwembad.Checked);
-        }
-
-        private void AddToDatabase(int area, int agent,int klient,int straatnr,int garage,int badkamers,int vloere,int slaapkamers, string straatnaam,string plan,string type,string addinligting, Boolean swembad)
-        {
-         /*   try
+            try
             {
                 myDb.Open();
 
+
                 OleDbCommand command = new OleDbCommand();
                 command.Connection = myDb;
-                command.CommandText = "INSERT INTO Eiendom(AreaId,AgentID,KlientID,AdresId,EiendomAantalBadkamers,EiendomAantalSlaapkamers" +
-                    ",EiendomPrys,EiendomSwembad,EiendomGarages,EiendomAantalVloere,EiendomOppervlakte,EiendomTipePlan,EiendomAdisioneleInligting,Verhuur/Verkoop) " +
-                    "VALUES (@AreaID,@AgentID,@KlientID)";
+                command.CommandText = "INSERT INTO Klient(AreaID,AgentID,KlientID,AdresID,EiedomAantalBadkamers,EiedomAantalSlaapkamers,EiendomPrys" +
+                    ",EiendomSwembad,EiendomGarages,EiendomAantalVloere,EiendomOppervlakte,EiendomTipePlan,EiendomAdisioneleInligting,Verhuur/Verkoop) " +
+                    "values(" + cbArea.SelectedIndex + "," + cbAgent.SelectedIndex + "," + cbKleint.SelectedIndex + "," + 3 + "," 
+                    + numBadkamers.Value + "," + numSlaapkamers.Value + "," + Convert.ToInt32(edtPrys.Text) + "," + cxbSwembad.Checked + "," + numGerages.Value + "," 
+                    + numVloere.Value + "," + Convert.ToInt32(edtOppervlakte.Text) + ",'" + edtPlan.Text + "','" + edtAddInligting.Text + "','" + cbType.SelectedText + "');";
 
                 try
                 {
@@ -133,17 +130,25 @@ namespace Fox_green_Nuwe
                     //MessageBox.Show("DB Opened");
                     this.Close();
                     frmAdmin frmBack = new frmAdmin(myDb, clientID);
+
                 }
+
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Nie alle waardes is in gevul nie.");
+                    MessageBox.Show("Nie alle waardes is in gevul nie." +  ex);
                 }
+
+
+
+
             }
 
             catch (Exception ex)
             {
                 MessageBox.Show("Error" + ex);
-            }*/
+            }
         }
+
+        
     }
 }

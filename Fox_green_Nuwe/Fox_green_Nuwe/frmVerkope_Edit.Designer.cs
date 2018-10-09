@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.AddInligting = new System.Windows.Forms.TextBox();
+            this.cbKlient = new System.Windows.Forms.ComboBox();
+            this.cbAgent = new System.Windows.Forms.ComboBox();
+            this.cbArea = new System.Windows.Forms.ComboBox();
             this.numGerages = new System.Windows.Forms.NumericUpDown();
             this.label14 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
@@ -48,17 +48,20 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.edtPrys = new System.Windows.Forms.TextBox();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.edtAdressID = new System.Windows.Forms.TextBox();
+            this.cxbSwembad = new System.Windows.Forms.CheckBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.numStraat = new System.Windows.Forms.NumericUpDown();
+            this.lblAdressNaam = new System.Windows.Forms.Label();
+            this.edtStraatNaam = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numGerages)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numVloere)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numSlaapkamers)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numBadkamers)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numStraat)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -70,37 +73,37 @@
             this.label1.TabIndex = 118;
             this.label1.Text = "Addisionele Inligting";
             // 
-            // textBox1
+            // AddInligting
             // 
-            this.textBox1.Location = new System.Drawing.Point(505, 240);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(183, 76);
-            this.textBox1.TabIndex = 117;
+            this.AddInligting.Location = new System.Drawing.Point(505, 240);
+            this.AddInligting.Multiline = true;
+            this.AddInligting.Name = "AddInligting";
+            this.AddInligting.Size = new System.Drawing.Size(183, 76);
+            this.AddInligting.TabIndex = 117;
             // 
-            // comboBox3
+            // cbKlient
             // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(232, 125);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(121, 21);
-            this.comboBox3.TabIndex = 116;
+            this.cbKlient.FormattingEnabled = true;
+            this.cbKlient.Location = new System.Drawing.Point(232, 125);
+            this.cbKlient.Name = "cbKlient";
+            this.cbKlient.Size = new System.Drawing.Size(121, 21);
+            this.cbKlient.TabIndex = 116;
             // 
-            // comboBox2
+            // cbAgent
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(231, 92);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(121, 21);
-            this.comboBox2.TabIndex = 115;
+            this.cbAgent.FormattingEnabled = true;
+            this.cbAgent.Location = new System.Drawing.Point(231, 92);
+            this.cbAgent.Name = "cbAgent";
+            this.cbAgent.Size = new System.Drawing.Size(121, 21);
+            this.cbAgent.TabIndex = 115;
             // 
-            // comboBox1
+            // cbArea
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(231, 55);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 21);
-            this.comboBox1.TabIndex = 114;
+            this.cbArea.FormattingEnabled = true;
+            this.cbArea.Location = new System.Drawing.Point(231, 55);
+            this.cbArea.Name = "cbArea";
+            this.cbArea.Size = new System.Drawing.Size(121, 21);
+            this.cbArea.TabIndex = 114;
             // 
             // numGerages
             // 
@@ -166,21 +169,21 @@
             // 
             // numVloere
             // 
-            this.numVloere.Location = new System.Drawing.Point(232, 323);
+            this.numVloere.Location = new System.Drawing.Point(234, 352);
             this.numVloere.Name = "numVloere";
             this.numVloere.Size = new System.Drawing.Size(120, 20);
             this.numVloere.TabIndex = 106;
             // 
             // numSlaapkamers
             // 
-            this.numSlaapkamers.Location = new System.Drawing.Point(232, 253);
+            this.numSlaapkamers.Location = new System.Drawing.Point(234, 282);
             this.numSlaapkamers.Name = "numSlaapkamers";
             this.numSlaapkamers.Size = new System.Drawing.Size(120, 20);
             this.numSlaapkamers.TabIndex = 105;
             // 
             // numBadkamers
             // 
-            this.numBadkamers.Location = new System.Drawing.Point(232, 211);
+            this.numBadkamers.Location = new System.Drawing.Point(234, 240);
             this.numBadkamers.Name = "numBadkamers";
             this.numBadkamers.Size = new System.Drawing.Size(120, 20);
             this.numBadkamers.TabIndex = 104;
@@ -188,7 +191,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(113, 325);
+            this.label9.Location = new System.Drawing.Point(115, 354);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(70, 13);
             this.label9.TabIndex = 103;
@@ -197,7 +200,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(113, 291);
+            this.label8.Location = new System.Drawing.Point(115, 320);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(54, 13);
             this.label8.TabIndex = 102;
@@ -230,19 +233,10 @@
             this.label5.TabIndex = 99;
             this.label5.Text = "Klient";
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(113, 172);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(62, 13);
-            this.label4.TabIndex = 98;
-            this.label4.Text = "Adress nom";
-            // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(113, 213);
+            this.label3.Location = new System.Drawing.Point(115, 242);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(93, 13);
             this.label3.TabIndex = 97;
@@ -251,7 +245,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(113, 255);
+            this.label2.Location = new System.Drawing.Point(115, 284);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(101, 13);
             this.label2.TabIndex = 96;
@@ -264,22 +258,15 @@
             this.edtPrys.Size = new System.Drawing.Size(120, 20);
             this.edtPrys.TabIndex = 95;
             // 
-            // checkBox1
+            // cxbSwembad
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(232, 290);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(37, 17);
-            this.checkBox1.TabIndex = 94;
-            this.checkBox1.Text = "Ja";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
-            // edtAdressID
-            // 
-            this.edtAdressID.Location = new System.Drawing.Point(232, 169);
-            this.edtAdressID.Name = "edtAdressID";
-            this.edtAdressID.Size = new System.Drawing.Size(120, 20);
-            this.edtAdressID.TabIndex = 93;
+            this.cxbSwembad.AutoSize = true;
+            this.cxbSwembad.Location = new System.Drawing.Point(234, 319);
+            this.cxbSwembad.Name = "cxbSwembad";
+            this.cxbSwembad.Size = new System.Drawing.Size(37, 17);
+            this.cxbSwembad.TabIndex = 94;
+            this.cxbSwembad.Text = "Ja";
+            this.cxbSwembad.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
@@ -291,17 +278,53 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // numStraat
+            // 
+            this.numStraat.Location = new System.Drawing.Point(235, 165);
+            this.numStraat.Name = "numStraat";
+            this.numStraat.Size = new System.Drawing.Size(119, 20);
+            this.numStraat.TabIndex = 122;
+            // 
+            // lblAdressNaam
+            // 
+            this.lblAdressNaam.AutoSize = true;
+            this.lblAdressNaam.Location = new System.Drawing.Point(116, 208);
+            this.lblAdressNaam.Name = "lblAdressNaam";
+            this.lblAdressNaam.Size = new System.Drawing.Size(66, 13);
+            this.lblAdressNaam.TabIndex = 121;
+            this.lblAdressNaam.Text = "Straat Naam";
+            // 
+            // edtStraatNaam
+            // 
+            this.edtStraatNaam.Location = new System.Drawing.Point(235, 205);
+            this.edtStraatNaam.Name = "edtStraatNaam";
+            this.edtStraatNaam.Size = new System.Drawing.Size(120, 20);
+            this.edtStraatNaam.TabIndex = 120;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(115, 172);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(49, 13);
+            this.label4.TabIndex = 119;
+            this.label4.Text = "Straat Nr";
+            // 
             // frmVerkope_Edit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Turquoise;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.numStraat);
+            this.Controls.Add(this.lblAdressNaam);
+            this.Controls.Add(this.edtStraatNaam);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.comboBox3);
-            this.Controls.Add(this.comboBox2);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.AddInligting);
+            this.Controls.Add(this.cbKlient);
+            this.Controls.Add(this.cbAgent);
+            this.Controls.Add(this.cbArea);
             this.Controls.Add(this.numGerages);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label13);
@@ -317,12 +340,10 @@
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.edtPrys);
-            this.Controls.Add(this.checkBox1);
-            this.Controls.Add(this.edtAdressID);
+            this.Controls.Add(this.cxbSwembad);
             this.Controls.Add(this.button1);
             this.Name = "frmVerkope_Edit";
             this.Text = "frmVerkope_Edit";
@@ -331,6 +352,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.numVloere)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numSlaapkamers)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numBadkamers)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numStraat)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -339,10 +361,10 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.ComboBox comboBox3;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.TextBox AddInligting;
+        private System.Windows.Forms.ComboBox cbKlient;
+        private System.Windows.Forms.ComboBox cbAgent;
+        private System.Windows.Forms.ComboBox cbArea;
         private System.Windows.Forms.NumericUpDown numGerages;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label13;
@@ -358,12 +380,14 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox edtPrys;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.TextBox edtAdressID;
+        private System.Windows.Forms.CheckBox cxbSwembad;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.NumericUpDown numStraat;
+        private System.Windows.Forms.Label lblAdressNaam;
+        private System.Windows.Forms.TextBox edtStraatNaam;
+        private System.Windows.Forms.Label label4;
     }
 }

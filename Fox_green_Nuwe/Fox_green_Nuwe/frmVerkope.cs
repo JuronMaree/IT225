@@ -33,14 +33,14 @@ namespace Fox_green_Nuwe
 
                 myDb.Open();
                 MessageBox.Show("dAtabase Sucessfull ");
-                /*  OleDbDataAdapter adapt = new OleDbDataAdapter(@"SELECT * FROM Eiendom", myDb)
+                  OleDbDataAdapter adapt = new OleDbDataAdapter(@"SELECT * FROM Eiendom", myDb)
                               ; // wys net eiendom naam en detail niks van ID nie WHERE eiendomtipe =tekoop
 
                   DataSet ds = new DataSet();
                   adapt.Fill(ds, "Eiendom");
                   dataGridView1.DataSource = ds;
                   dataGridView1.DataMember = "Eiendom";
-  */
+  
                 myDb.Close();
                 
             }
@@ -83,10 +83,7 @@ namespace Fox_green_Nuwe
                 this.Close();
         }
 
-        private void frmVerkope_Load(object sender, EventArgs e)
-        {
 
-        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -98,12 +95,6 @@ namespace Fox_green_Nuwe
           
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            frmVerkope_Edit f3 = new frmVerkope_Edit(myDb, clientID, 3); // DIE 3 MOet die selected een wees wat verander moet word
-            f3.Show();
-            //this.Hide();
-        }
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -116,6 +107,19 @@ namespace Fox_green_Nuwe
             frmVerkope_Soek f3 = new frmVerkope_Soek();
             f3.Show();
             //this.Hide();
+        }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            string cID = "";
+            int index = e.RowIndex;
+
+            DataGridViewRow selectedRow = dataGridView1.Rows[index];
+            cID = selectedRow.Cells[0].Value.ToString();
+
+            frmVerkope_Edit f3 = new frmVerkope_Edit(myDb, clientID, Convert.ToInt32(cID)); // DIE 3 MOet die selected een wees wat verander moet word
+            f3.Show();
+            this.Hide();
         }
     }
 }

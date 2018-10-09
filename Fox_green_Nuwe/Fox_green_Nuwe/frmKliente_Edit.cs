@@ -72,7 +72,7 @@ namespace Fox_green_Nuwe
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // update die data
+                // update die data
             
 
             try
@@ -142,8 +142,6 @@ namespace Fox_green_Nuwe
                         txtTelefoon.Text = tel;
                         cbStatus.Text = stat;
                         checkBox1.Checked = kk;
-
-                       
 
                     }
                     reader.Close();

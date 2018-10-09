@@ -117,36 +117,6 @@
     <Compile Include="frmOptions_Passchange.Designer.cs">
       <DependentUpon>frmOptions_Passchange.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmVerhuur.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmVerhuur.Designer.cs">
-      <DependentUpon>frmVerhuur.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmVerhuur_Edit.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmVerhuur_Edit.Designer.cs">
-      <DependentUpon>frmVerhuur_Edit.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmVerhuur_Nuwe.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmVerhuur_Nuwe.Designer.cs">
-      <DependentUpon>frmVerhuur_Nuwe.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmVerhuur_Soek.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmVerhuur_Soek.Designer.cs">
-      <DependentUpon>frmVerhuur_Soek.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmVerhuur_soek2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmVerhuur_soek2.Designer.cs">
-      <DependentUpon>frmVerhuur_soek2.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmVerkope.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -211,21 +181,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmOptions_Passchange.resx">
       <DependentUpon>frmOptions_Passchange.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmVerhuur.resx">
-      <DependentUpon>frmVerhuur.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmVerhuur_Edit.resx">
-      <DependentUpon>frmVerhuur_Edit.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmVerhuur_Nuwe.resx">
-      <DependentUpon>frmVerhuur_Nuwe.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmVerhuur_Soek.resx">
-      <DependentUpon>frmVerhuur_Soek.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmVerhuur_soek2.resx">
-      <DependentUpon>frmVerhuur_soek2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmVerkope.resx">
       <DependentUpon>frmVerkope.cs</DependentUpon>
